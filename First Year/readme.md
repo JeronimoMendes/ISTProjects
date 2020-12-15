@@ -2,16 +2,17 @@
 
 This are all the projects I worked on in my first year at Instituto Superior Tecnico - Taguspark. 
 
-## Classes
-
+# Classes
+## 1st Semester 
  - **FP** - Programming Fundamentals
  - **IAC** - Introduction to Computer Architecture
 
 
-## Grades
+# Grades
 
  - **FP** :
-				-First Project : 19.5 /20.0  
+				-First Project : 19.5 / 20.0  
 
-- **IAC**: TBA
+- **IAC**: 
+				-Mid Version: 4.3 / 5
 			
