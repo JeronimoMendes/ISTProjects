@@ -15,4 +15,6 @@ This are all the projects I worked on in my first year at Instituto Superior Tec
 
 - **IAC**: 
 				-Mid Version: 4.3 / 5
+				-Final Version 12.8 / 15
+				-Final grade 17.1 / 20.0
 			
