@@ -7,7 +7,7 @@ This are all the projects I worked on in my first year at Instituto Superior Tec
 ## 1st Semester 
  - **FP** - Programming Fundamentals
  - **IAC** - Introduction to Computer Architecture
-
+ - **IAED** - Introduction to Algorithms and Data Structures
 
 # Grades
 
