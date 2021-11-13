@@ -23,3 +23,7 @@ This are all the projects I worked on in my first year at Instituto Superior Tec
 
  - **IAED**:
  	 - First Project: **18.8** / 20.0
+	 - Second Project: **10.6**/20.00
+
+ - **LP**:
+ 	 - Project: **20** / 20
