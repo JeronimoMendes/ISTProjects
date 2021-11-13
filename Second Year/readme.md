@@ -12,7 +12,8 @@ This are all the projects I worked on in my second year at Instituto Superior Te
 # Grades
 
  - **PO** :
-	- First delivery: **
+	- UML Delivery: **2.20**/3.00
+	- Final Grade: TBD
 
  - **ASA**: 
 
