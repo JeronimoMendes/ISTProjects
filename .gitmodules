@@ -1,3 +1,9 @@
 [submodule "Second Year/PO-Project"]
 	path = Second Year/PO-Project
 	url = https://github.com/JeronimoMendes/PO-IST-Project
+[submodule "First Year/IAED/Second"]
+	path = First Year/IAED/Second
+	url = https://github.com/JeronimoMendes/Projeto-2-IAED
+[submodule "First Year/LP"]
+	path = First Year/LP
+	url = https://github.com/JeronimoMendes/Projeto-LP
