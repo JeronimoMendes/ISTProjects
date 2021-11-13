@@ -8,6 +8,7 @@ This are all the projects I worked on in my first year at Instituto Superior Tec
  - **FP** - Programming Fundamentals
  - **IAC** - Introduction to Computer Architecture
  - **IAED** - Introduction to Algorithms and Data Structures
+ - **LP** - Logic Programming
 
 # Grades
 
