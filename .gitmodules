@@ -7,3 +7,9 @@
 [submodule "First Year/LP"]
 	path = First Year/LP
 	url = https://github.com/JeronimoMendes/Projeto-LP
+[submodule "Second Year/SO/First Project"]
+	path = Second Year/SO/First Project
+	url = https://github.com/ist199086-99338/SO-Project-1
+[submodule "Second Year/ASA/First Project"]
+	path = Second Year/ASA/First Project
+	url = https://github.com/ist199086-99338/ASA-Project-1
